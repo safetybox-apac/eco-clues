@@ -54,3 +54,4 @@ Google Drive links are not supported in this standalone edition. Maintain the da
 Local Chromium checks passed for all 15 words and three picture packs, countdown and 10-minute timer, picture zoom, unlimited retries, 3-point and hinted 2-point scoring, prevention of repeat scoring, letter controls, phone viewport fit, refresh recovery, expiry with an open dialog, answer reveal and desktop results. Desktop and phone screenshots were visually checked. No browser JavaScript errors were recorded.
 
 This package has not been published or tested on your work network. Test the deployed URL on your intended devices before the session.
+ 
